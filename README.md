@@ -1,2 +1,2 @@
 # Modern JavaScript
-Complete Modern JavaScript Firebase
+Master JavaScript and Firebase Firestore with Pure JavaScript！JavaScript ES6+, OOP, AJAX
