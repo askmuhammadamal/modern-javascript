@@ -1,2 +1,2 @@
-# modern-javascript
+# Modern JavaScript
 Complete Modern JavaScript Firebase
