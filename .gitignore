@@ -107,4 +107,4 @@ dist
 .vscode/
 
 # Others
-.DB_Store
+.DS_Store
